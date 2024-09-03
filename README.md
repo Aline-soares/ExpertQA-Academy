@@ -1,4 +1,4 @@
-# QAExpert
+# Expert QA Academy
 
 Projetos de automação realizados no curso **QAExpert** em Selenium com Python.
 
